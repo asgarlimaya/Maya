@@ -6,6 +6,9 @@ public class Lesson1 {
         System.out.println(ourGroup);
 
         System.out.println("Hi");
+
+
+        int num = 1;
     }
 
 }
