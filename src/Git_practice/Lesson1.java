@@ -6,6 +6,7 @@ public class Lesson1 {
         String studyGroup = "the best group";
 
         System.out.println("Our group is " +studyGroup );
+
     }
 
 
