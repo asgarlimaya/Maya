@@ -6,6 +6,10 @@ public class Lesson1 {
         System.out.println(ourGroup);
 
         System.out.println("Hi");
+=======
+        System.out.println("Our group is " + studyGroup );
+    }
+
 
 
         int num = 1;
